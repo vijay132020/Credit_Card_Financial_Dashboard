@@ -1,4 +1,6 @@
 # Credit_Card_Financial_Dashboard
+Author- VIJAY SINGH
+<br>
 Power BI Dashboard
 <br>
 Credit card financial dashboard using Power BI:
